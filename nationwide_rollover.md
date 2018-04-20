@@ -3,9 +3,19 @@ This is where I am documenting the steps to rollover my nationwide 403(b) to the
 
 * For every account that you have to transfer over, you have to fill out a TSP-60 form. ([link to form - pdf](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf)). If you have trouble with this form, the people at TSP are very nice. You can call them by dialing 1-877-968-3778. Things you need to know for this phone call: **your TSP account number** and your **SSN** and **address**. 
 
-Filled this out and saved it.
+Filled this out and saved it. I couldn't fill out section II. The TSP Helpline gave me the following instructions:
+
+If the financial firm declines to put their signature on the TSP-60, the TSP will accept either of the following options:
+a) A letter on company letterhead documenting the same information from Section II
+or
+b) an IRS Letter of Determination (which basically says the same thing and they should have on file)
+
+The company can then send you a check to bundle with this package. Or, the participant can mail all of this, and then then the financial institution can send the check.
+The caveat: they will only hold the check for 15 days, so it is better to send all of your paperwork in, and then deal with the check.
 
 * You also must fill out paperwork from your previous retirement account or IRA. Both of my retirement accounts made me call, then fill out some online forms, and then print out some paperwork to send out to them (or in one case, send to my previous employer to send to them. They don't make this easy.)
+
+
 
 ** If you're married, your previous retirement account sends you a form that your spouse must sign in front of a notary. This is because your spouse is entitled to part of your retirement benefits should you die, and therefore must agree to transition them over to a TSP. 
 

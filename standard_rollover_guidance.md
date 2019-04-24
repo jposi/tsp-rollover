@@ -1,6 +1,3 @@
-
-This is where I am documenting the steps to rollover my nationwide 403(b) to the TSP.
-
 * For every account that you have to transfer over, you have to fill out a TSP-60 form. ([link to form - pdf](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf)). If you have trouble with this form, the people at TSP are very nice. You can call them by dialing 1-877-968-3778. Things you need to know for this phone call: **your TSP account number** and your **SSN** and **address**. 
 
 Filled this out and saved it. I couldn't fill out section II. The TSP Helpline gave me the following instructions:
